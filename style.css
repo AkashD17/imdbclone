@@ -1,0 +1,21 @@
+body {
+    background-color: #101820;
+    color: white
+}
+.search-list {
+display: inline-flex;
+
+}
+.result-container {
+  display: inline-flex;
+}
+.movielogo {
+    background-size: contain;
+    height: 50px;
+    width: 50px;
+}
+img {
+    margin: 10px;
+    height: 400px;
+    width: 250px;
+}
